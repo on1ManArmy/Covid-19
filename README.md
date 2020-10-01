@@ -1,5 +1,5 @@
 # Covid-19
-
+This is a notification system built using Python3
 For Using this:
 Just install all python modules from Cmd line:-
 1. BeautifulSoup
