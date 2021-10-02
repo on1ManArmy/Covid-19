@@ -7,4 +7,9 @@ Just install all python modules from Cmd line:-
 3. vs code
 4. Python
 
+API Used:
+1. Mapbox
+2. Cloudinary
+3. JWt Auth
+
 For Run: python file_name.py
